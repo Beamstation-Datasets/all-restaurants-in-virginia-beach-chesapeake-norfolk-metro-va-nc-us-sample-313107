@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9c5888dc-c66e-4796-86f8-df756cc7c24c",
+  "export_job_id": "df58e33d-0b78-48d8-8079-d1a66e26b8b4",
   "id_short": 313107,
-  "published_at": "2026-04-17T19:17:11Z",
+  "published_at": "2026-04-21T19:16:41Z",
   "repo_name": "all-restaurants-in-virginia-beach-chesapeake-norfolk-metro-va-nc-us-sample-313107",
   "sample_asset_name": "beamstation_313107_restaurants-us-virginiabeachchesapeakenorfolkvanc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/313107/beamstation_313107_restaurants-us-virginiabeachchesapeakenorfolkvanc_SAMPLE_DIST.csv",
-  "sample_records": 427,
-  "sample_sha256": "ce8091db40e1584a7469489bdf20969dc2bb23eb19155ea604c44568553e628d",
-  "sample_size_bytes": 1548441,
-  "total_records": 4276
+  "sample_records": 253,
+  "sample_sha256": "e06e167155913e554ea2b7a943231bfd105a290c614e8efb02d49dd3e629ed18",
+  "sample_size_bytes": 914026,
+  "total_records": 2533
 }
