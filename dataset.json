@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Metro-wide restaurant data for the Virginia Beach-Chesapeake-Norfolk area spanning Virginia and North Carolina. Filtered by the Restaurants category group, covers the Hampton Roads dining market with verified business profiles, review sentiment, and competitive rankings. Refreshed weekly.",
   "config_name": "All Restaurants in Virginia Beach-Chesapeake-Norfolk (Metro), VA-NC, US",
-  "export_job_id": "df58e33d-0b78-48d8-8079-d1a66e26b8b4",
+  "export_job_id": "6fa38ccb-6bfc-4cd4-a4d9-391a6a718f4d",
   "github_org": "Beamstation-Datasets",
   "id_short": 313107,
   "location_name": "Virginia Beach-Chesapeake-Norfolk, VA-NC",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-virginia-beach-chesapeake-norfolk-metro-va-nc-us-sample-313107",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/313107/beamstation_313107_restaurants-us-virginiabeachchesapeakenorfolkvanc_SAMPLE_DIST.csv",
   "sample_pct": 9.99,
-  "sample_records": 253,
-  "sample_sha256": "e06e167155913e554ea2b7a943231bfd105a290c614e8efb02d49dd3e629ed18",
-  "sample_size_bytes": 914026,
-  "total_records": 2533,
-  "updated_at": "2026-04-21T14:01:50.242786+00:00"
+  "sample_records": 368,
+  "sample_sha256": "478f5d84cc7937821f29bb454743fc8b4556dc25635284d2356507365ebc6c4d",
+  "sample_size_bytes": 1197494,
+  "total_records": 3685,
+  "updated_at": "2026-04-28T15:10:35.860191+00:00"
 }
