@@ -1,6 +1,6 @@
 # All Restaurants in Virginia Beach-Chesapeake-Norfolk (Metro), VA-NC, US
 
-> Free BeamStation sample export with 368 rows and masked direct-contact fields.
+> Free BeamStation sample export with 445 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `313107` |
 | Location | Virginia Beach-Chesapeake-Norfolk, VA-NC |
 | Category | Restaurants |
-| Full dataset size | 3,685 records |
-| Free sample size | 368 records (9.99%) |
-| Last export | 2026-04-28T15:10:35.860191+00:00 |
+| Full dataset size | 4,458 records |
+| Free sample size | 445 records (9.98%) |
+| Last export | 2026-05-06T07:10:40.413944+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-virginia-beach-chesapeake-norfolk-metro-va-nc-us-sample-313107/releases/download/sample-latest/beamstation_313107_restaurants-us-virginiabeachchesapeakenorfolkvanc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
